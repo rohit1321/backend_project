@@ -1,1 +1,1 @@
-this is a  vedio deries on backend with javascript
+this is a  video deries on backend with javascript
